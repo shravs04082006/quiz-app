@@ -1,5 +1,5 @@
-Introduction 
-features
-technologies used
-how to play 
-future improvements
+Introduction
+Features
+Technologies used
+How to play 
+Future improvements
